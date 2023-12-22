@@ -1,0 +1,15 @@
+D:\Lucas\Projetos\Bootcamp_dotnet\trilha-net-fundamentos-desafio-main\trilha-net-fundamentos-desafio-main\DesafioFundamentos\bin\Debug\net6.0\DesafioFundamentos.exe
+D:\Lucas\Projetos\Bootcamp_dotnet\trilha-net-fundamentos-desafio-main\trilha-net-fundamentos-desafio-main\DesafioFundamentos\bin\Debug\net6.0\DesafioFundamentos.deps.json
+D:\Lucas\Projetos\Bootcamp_dotnet\trilha-net-fundamentos-desafio-main\trilha-net-fundamentos-desafio-main\DesafioFundamentos\bin\Debug\net6.0\DesafioFundamentos.runtimeconfig.json
+D:\Lucas\Projetos\Bootcamp_dotnet\trilha-net-fundamentos-desafio-main\trilha-net-fundamentos-desafio-main\DesafioFundamentos\bin\Debug\net6.0\DesafioFundamentos.dll
+D:\Lucas\Projetos\Bootcamp_dotnet\trilha-net-fundamentos-desafio-main\trilha-net-fundamentos-desafio-main\DesafioFundamentos\bin\Debug\net6.0\DesafioFundamentos.pdb
+D:\Lucas\Projetos\Bootcamp_dotnet\trilha-net-fundamentos-desafio-main\trilha-net-fundamentos-desafio-main\DesafioFundamentos\obj\Debug\net6.0\DesafioFundamentos.csproj.AssemblyReference.cache
+D:\Lucas\Projetos\Bootcamp_dotnet\trilha-net-fundamentos-desafio-main\trilha-net-fundamentos-desafio-main\DesafioFundamentos\obj\Debug\net6.0\DesafioFundamentos.GeneratedMSBuildEditorConfig.editorconfig
+D:\Lucas\Projetos\Bootcamp_dotnet\trilha-net-fundamentos-desafio-main\trilha-net-fundamentos-desafio-main\DesafioFundamentos\obj\Debug\net6.0\DesafioFundamentos.AssemblyInfoInputs.cache
+D:\Lucas\Projetos\Bootcamp_dotnet\trilha-net-fundamentos-desafio-main\trilha-net-fundamentos-desafio-main\DesafioFundamentos\obj\Debug\net6.0\DesafioFundamentos.AssemblyInfo.cs
+D:\Lucas\Projetos\Bootcamp_dotnet\trilha-net-fundamentos-desafio-main\trilha-net-fundamentos-desafio-main\DesafioFundamentos\obj\Debug\net6.0\DesafioFundamentos.csproj.CoreCompileInputs.cache
+D:\Lucas\Projetos\Bootcamp_dotnet\trilha-net-fundamentos-desafio-main\trilha-net-fundamentos-desafio-main\DesafioFundamentos\obj\Debug\net6.0\DesafioFundamentos.dll
+D:\Lucas\Projetos\Bootcamp_dotnet\trilha-net-fundamentos-desafio-main\trilha-net-fundamentos-desafio-main\DesafioFundamentos\obj\Debug\net6.0\refint\DesafioFundamentos.dll
+D:\Lucas\Projetos\Bootcamp_dotnet\trilha-net-fundamentos-desafio-main\trilha-net-fundamentos-desafio-main\DesafioFundamentos\obj\Debug\net6.0\DesafioFundamentos.pdb
+D:\Lucas\Projetos\Bootcamp_dotnet\trilha-net-fundamentos-desafio-main\trilha-net-fundamentos-desafio-main\DesafioFundamentos\obj\Debug\net6.0\DesafioFundamentos.genruntimeconfig.cache
+D:\Lucas\Projetos\Bootcamp_dotnet\trilha-net-fundamentos-desafio-main\trilha-net-fundamentos-desafio-main\DesafioFundamentos\obj\Debug\net6.0\ref\DesafioFundamentos.dll
